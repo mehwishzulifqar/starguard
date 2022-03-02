@@ -1,0 +1,51 @@
+.totaluser_images {
+  height: 136px;
+  background: url(../../assets/images/1.svg);
+  border-radius: 10px;
+  padding: 34px;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+  margin-top: 3rem;
+}
+.totaluser_images1 {
+  background: url(../../assets/images/2.svg);
+  height: 136px;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+.totaluser_images2 {
+  background: url(../../assets/images/3.svg);
+  height: 136px;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+.totaluser_images3 {
+  background: url(../../assets/images/4.svg);
+  height: 136px;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+
+.totaluser_images h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+  color: #ffffff;
+}
+.totaluser_images p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 16px;
+  /* identical to box height, or 89% */
+  color: #ffffff;
+  margin-top: 5px;
+}

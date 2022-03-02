@@ -1,0 +1,70 @@
+.tablebody {
+  background: #ffffff;
+  /* Shadow Effects/Shadow 3 */
+  width: 100%;
+  height: 56px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin-top: 20px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding: 0 20px;
+}
+.tablebody ul {
+  list-style: none;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  margin-bottom: 0px;
+  width: 100%;
+}
+.tablebody ul li {
+  width: 20%;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 12px;
+  /* identical to box height, or 86% */
+  color: #6b779a;
+}
+.tablebody:hover {
+  transition: transform all 0.5s ease-in-out;
+  background: #6b779a;
+}
+.tablebody:hover ul li {
+  color: #ffffff;
+}
+.profileimg {
+  border-radius: 50%;
+  margin-right: 10px;
+  width: 18px;
+  height: 18px;
+}
+.Approved__btn {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background: #4dc451;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 4px 12px;
+  width: 100px;
+  height: 30px;
+  border: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height, or 117% */
+  color: #ffffff;
+}
+.CaretDownOutlined {
+  margin-left: 8px;
+}
+.At_Table {
+  overflow: auto;
+}

@@ -1,0 +1,36 @@
+.Organization_div {
+  width: 100%;
+  margin-top: 3rem;
+}
+.Recent_btn {
+  border: 1px solid #000000 !important;
+  box-sizing: border-box;
+  /* Shadow Effects/Shadow 5 */
+  filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.07)) !important;
+  border-radius: 5px !important;
+  width: 85px !important;
+  height: 27px !important;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height, or 117% */
+  letter-spacing: 0.5px;
+  color: #373248;
+  justify-items: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.Organization_div h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  /* Dark Gray */
+  color: #0f172a;
+}

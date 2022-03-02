@@ -1,0 +1,30 @@
+.tableheader {
+  background: #e0edfa;
+  border-radius: 10px;
+  height: 56px;
+  width: 100%;
+  margin-top: 20px;
+  padding: 0 20px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+.tableheader ul {
+  list-style: none;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  margin-bottom: 0px;
+  width: 100%;
+}
+.tableheader ul li {
+  width: 20%;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+  /* identical to box height, or 100% */
+  letter-spacing: 0.5px;
+  color: #373248;
+}

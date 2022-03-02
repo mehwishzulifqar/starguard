@@ -1,0 +1,140 @@
+.popove_div {
+  width: 400px;
+  height: 300px;
+  overflow: auto;
+}
+.Notifications {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #1a1f36;
+  margin-top: 10px;
+}
+.see_text {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height, or 117% */
+  text-align: right;
+  color: #0fa0f1;
+  margin-top: 10px;
+}
+
+.Murphy_div {
+  margin-top: 10px;
+  border-bottom: 1px solid #e3e8ee !important;
+  padding: 10px 20px;
+  display: flex;
+}
+.lex_text {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  color: #1a1f36;
+  margin-left: 5px;
+}
+.Murphy_text {
+  margin-left: 15px;
+}
+.join_text {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  color: #1a1f36;
+  margin-left: 5px;
+}
+.Initials {
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+}
+.Accept_Btn {
+  background: #0dbd7e !important;
+  border-radius: 4px !important;
+  width: 80px !important;
+  height: 30px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height, or 117% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff !important;
+  margin-top: 10px;
+}
+.Reject_btn {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px !important;
+  line-height: 14px;
+  /* identical to box height, or 117% */
+  border: 2px solid #6b779a !important;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border-radius: 4px !important;
+  width: 80px;
+  height: 30px;
+  color: #6b779a !important;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.Todaypopove_text {
+  /* Regular/Small */
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  color: #abb4cf;
+  margin-top: 8px;
+}
+.Admin_heading {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: 1px;
+  color: #373248;
+}
+.Albert_txet h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  /* identical to box height, or 100% */
+  margin-left: 15px;
+  letter-spacing: 0.5px;
+  color: #373248;
+}
+.Albert_txet p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+  margin-left: 15px;
+  letter-spacing: -0.24px;
+  color: #373248;
+}
+.male_images {
+  margin-left: 10px;
+}

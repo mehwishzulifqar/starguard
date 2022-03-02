@@ -1,0 +1,217 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0px;
+}
+.At_Strargurd {
+  width: 100%;
+  display: flex;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0px;
+}
+.Signin_div {
+  width: 50%;
+  background-color: #dda2ff;
+  padding: 10rem 0px;
+  text-align: center;
+  justify-content: center;
+}
+.welcome_div h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: -0.24px;
+  color: #ffffff;
+  margin-top: 2rem;
+}
+.welcome_div p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: -0.24px;
+  color: #ffffff;
+}
+.btn_Signin {
+  width: 144px;
+  height: 50px;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18px;
+  /* identical to box height, or 112% */
+  background: none !important;
+  text-align: center;
+  letter-spacing: 0.266977px;
+  color: #ffffff;
+  margin-top: 10px;
+}
+.signin_div1 {
+  background-color: #edf7fe;
+  width: 50%;
+  padding: 3rem 6rem;
+}
+.signin_div1 h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  /* identical to box height, or 111% */
+  letter-spacing: -0.24px;
+  color: #373248;
+  margin-top: 9rem;
+}
+.signin_div1 p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 40px;
+  /* identical to box height, or 133% */
+  letter-spacing: -0.24px;
+  color: #373248;
+}
+.email_id {
+  background: #ffffff !important;
+  border: 0.3px solid #e5e5e5 !important;
+  border-radius: 10px !important;
+  width: 100% !important;
+  height: 50px !important;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px !important;
+  line-height: 17px;
+  /* identical to box height */
+  letter-spacing: 0.266977px;
+  color: #000 !important;
+  padding: 4px 20px !important;
+}
+.ant-form-item {
+  margin-bottom: 15px !important;
+}
+.ant-input::placeholder {
+  color: #abb4cf !important;
+}
+#email_input {
+  width: 97% !important;
+}
+.ant-input-password-icon {
+  color: #abb4cf !important;
+  font-size: 20px;
+}
+.form_div {
+  margin-top: 1rem;
+}
+.SUBMIT_btn {
+  background: #f35282;
+  border: 0.3px solid #e5e5e5;
+  border-radius: 10px;
+  width: 100%;
+  height: 50px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.266977px;
+  color: #ffffff;
+  margin-top: 1rem;
+}
+.Forgot_text {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+  letter-spacing: -0.24px;
+  color: #0fa0f1;
+}
+.At_Emaildiv {
+  background: #f0f8fe;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 3rem 4rem;
+}
+.At_inboxDiv {
+  justify-content: center;
+  text-align: center;
+}
+.At_inboxDiv h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  /* identical to box height, or 111% */
+  text-align: center;
+  letter-spacing: -0.24px;
+  color: #373248;
+}
+.verification_text {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  /* or 178% */
+  text-align: center;
+  letter-spacing: -0.24px;
+  color: #373248;
+}
+.CheckEmail_btn {
+  background: #f35282;
+  border: 0.3px solid #e5e5e5;
+  border-radius: 10px;
+  width: 438px;
+  height: 50px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.266977px;
+  margin-top: 2rem;
+  color: #ffffff;
+}
+.Resend_link {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 16px;
+  /* identical to box height, or 89% */
+  margin-top: 1rem;
+  text-align: center;
+  letter-spacing: -0.24px;
+  color: #6b779a;
+}
+.At_inboxDiv {
+  margin-top: 10rem;
+}

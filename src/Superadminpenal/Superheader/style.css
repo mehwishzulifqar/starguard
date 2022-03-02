@@ -1,0 +1,34 @@
+.Albert_txet h1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  /* identical to box height, or 100% */
+  margin-left: 15px;
+  letter-spacing: 0.5px;
+  color: #373248;
+}
+.Albert_txet p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+  margin-left: 15px;
+  letter-spacing: -0.24px;
+  color: #373248;
+}
+.male_images {
+  margin-left: 10px;
+}
+.Admin_heading {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: 1px;
+  color: #373248;
+}

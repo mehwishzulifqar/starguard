@@ -1,0 +1,22 @@
+.ant-layout-sider {
+  flex: 0 0 118px !important;
+  max-width: 118px !important;
+  min-width: 118px !important;
+  width: 118px !important;
+  background: #f5fafd !important;
+  border: 2px solid #ffffff !important;
+  box-sizing: border-box !important;
+  justify-content: center;
+  text-align: center;
+}
+.Frame_images {
+  position: absolute;
+  bottom: 30px;
+  left: 37px;
+}
+.ant-image-mask {
+  display: none !important;
+}
+.Frame_images1 {
+  margin-top: 1.25rem;
+}

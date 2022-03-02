@@ -1,0 +1,25 @@
+.site-layout {
+  padding: 1.8rem 2rem;
+  background: #eff5fe !important;
+  position: absolute;
+  width: 100% !important;
+}
+
+.ant-layout-header {
+  background: none !important ;
+}
+.At-Adminpenal {
+  margin-left: 114px;
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+.penal_section {
+  width: 100%;
+  display: flex;
+}
+.AddNewUser_scetion {
+  width: 30% !important;
+  margin-top: 3rem !important;
+  margin-left: 2rem;
+}
